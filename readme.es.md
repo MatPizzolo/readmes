@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hola, Mateo Pizzolo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hola, soy Mateo Pizzolo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 [![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
 
@@ -10,7 +10,7 @@
 <br>
 
 - Aprendí desarrollo de software en 42, Madrid.
-- Este es [mi curriculum](https://drive.google.com/file/d/1vdIIKPQrwO2fUzHXMsg-hMPJQmFO4c55/view?usp=sharing)
+- Este es [mi curriculum](https://drive.google.com/file/d/1XAlsKB88-UvtX-eHDdb5noE7HxSTtQMt/view?usp=sharing)
 <!---
 - My [42 Resume](https://cv.42.fr/mpizzolo)
 - Portfolio website [link](http://www.mateopizzolo.com/)
@@ -74,6 +74,24 @@
 
 <br>
 
+
+## <p align="center">Mis Proyectos Web</p>
+
+| Título                | Descripción                                                                 | Stack | Tech Stack                        |
+|-----------------------|-----------------------------------------------------------------------------|-------|-----------------------------------|
+| [Camagru](https://github.com/MatPizzolo/Camagru)  | Una aplicación que permite subir imágenes, editarlas y compartirlas.                     | FS    | Docker, MariaDB, WordPress, Nginx |
+| [Trascendence](https://github.com/MatPizzolo/ft_transcendence) | Una aplicación web donde los usuarios pueden jugar Pong online, crear torneos, agregar amigos. | FS    | Docker, JavaScript, Bootstrap, Django |
+| [Amazon Clone](https://github.com/MatPizzolo/amazon-clone) | Un clon de Amazon con autenticación de usuarios y carrito de productos.                  | FS    | Docker, MongoDB, NestJS, React, Redux, Material-UI |
+| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Una aplicación de búsqueda de recetas que destaca la velocidad de Gatsby.                | FE    | JavaScript, React, Gatsby         |
+| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Un clon de Netflix hecho con React.                                                     | FE    | JavaScript, React                 |
+| [Nio](https://github.com/MatPizzolo/Nio-Resto)          | Una landing page para un restaurante.                                                  | FE    | JavaScript, React, Material-UI    |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Un simple juego de Tic Tac Toe online para 2 jugadores.                                 | FE    | JavaScript                         |
+
+
+
+
+
+<br>
 
 ## <p align="center">Mi trayectorio en proyectos de 42🚀</p>
 ### <p align="center">En orden cronológico</p>
