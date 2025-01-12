@@ -3,7 +3,7 @@
 
 <h1 align="center"><b>Hi , I'm Mateo Pizzolo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/readmes/blob/main/readme.es.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)](https://github.com/MatPizzolo/MatPizzolo/blob/main/README.md)
 
 ## 📖 **About me**
 
