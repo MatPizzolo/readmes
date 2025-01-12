@@ -74,6 +74,22 @@
 
 <br>
 
+## <p align="center">My Web Projects</p>
+
+| Title                | Description                                                                 | Stack | Tech Stack                        |
+|-----------------------|-----------------------------------------------------------------------------|-------|-----------------------------------|
+| [Camagru](https://github.com/MatPizzolo/Camagru/blob/main/README.en.md)  | An application that allows users to upload, edit, and share images.                     | FS    | Docker, MariaDB, WordPress, Nginx |
+| [Trascendence](https://github.com/MatPizzolo/ft_transcendence/blob/main/README.en.md) | A web application where users can play Pong online, create tournaments, and add friends. | FS    | Docker, JavaScript, Bootstrap, Django |
+| [Amazon Clone](https://github.com/MatPizzolo/amazon-clone/blob/main/README.en.md) | An Amazon clone with user authentication and a product cart.                            | FS    | Docker, MongoDB, NestJS, React, Redux, Material-UI |
+| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes/blob/main/README.en.md) | A recipe search app highlighting Gatsby's speed.                                        | FE    | JavaScript, React, Gatsby         |
+| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone/blob/main/README.en.md) | A Netflix clone built with React.                                                      | FE    | JavaScript, React                 |
+| [Nio](https://github.com/MatPizzolo/Nio-Resto/blob/main/README.en.md)          | A landing page for a restaurant.                                                       | FE    | JS, React, Material-UI            |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe/blob/main/README.en.md) | A simple online Tic Tac Toe game for 2 players.                                        | FE    | JS                                |
+
+
+
+<br/>
+
 
 ## <p align="center">My 42 Projects Journey🚀</p>
 ### <p align="center">In Chronological Order</p>
