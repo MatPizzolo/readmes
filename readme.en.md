@@ -1,7 +1,7 @@
 
 <h1 align="center"><b>Hola, soy Mateo Pizzolo </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
-[![en](https://img.shields.io/badge/lang-en-red.svg)](https://github.com/jonatasemidio/multilanguage-readme-pattern/blob/master/README.md)
+[![es](https://img.shields.io/badge/lang-es-yellow.svg)]() 
 
 
 ## 📖 **Sobre mí**
@@ -84,8 +84,8 @@
 | [Amazon Clone](https://github.com/MatPizzolo/amazon-clone) | Un clon de Amazon con autenticación de usuarios y carrito de productos.                  | FS    | Docker, MongoDB, NestJS, React, Redux, Material-UI |
 | [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Una aplicación de búsqueda de recetas que destaca la velocidad de Gatsby.                | FE    | JavaScript, React, Gatsby         |
 | [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Un clon de Netflix hecho con React.                                                     | FE    | JavaScript, React                 |
-| [Nio](https://github.com/MatPizzolo/Nio-Resto)          | Una landing page para un restaurante.                                                  | FE    | JavaScript, React, Material-UI    |
-| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Un simple juego de Tic Tac Toe online para 2 jugadores.                                 | FE    | JavaScript                         |
+| [Nio](https://github.com/MatPizzolo/Nio-Resto)          | Una landing page para un restaurante.                                                  | FE    | JS, React, Material-UI    |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Un simple juego de Tic Tac Toe online para 2 jugadores.                                 | FE    | JS                         |
 
 
 
