@@ -10,6 +10,7 @@
 
 <br>
 
+- Worked a year as Full Stack Developer at Menta Tickets.
 - Learned Software Development at 42, Madrid.
 - This is [my resume](https://drive.google.com/file/d/10ZBIv5_esZdQsVR-FRQQbUgOHymGcvVk/view?usp=sharing)
 <!---
