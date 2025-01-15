@@ -78,9 +78,6 @@
 ## <p align="center">Web Development Portfolio</p>
 
 ### Featured Projects
-## <p align="center">Web Development Portfolio</p>
-
-### Featured Projects
 
 #### 🎮 Transcendence
 An online Pong gaming platform.
