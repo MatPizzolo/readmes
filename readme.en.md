@@ -75,18 +75,39 @@
 
 <br>
 
-## <p align="center">My Web Projects</p>
+## <p align="center">Web Development Portfolio</p>
 
-| Title                | Description                                                                 | Stack | Tech Stack                        |
-|-----------------------|-----------------------------------------------------------------------------|-------|-----------------------------------|
-| [Camagru](https://github.com/MatPizzolo/Camagru/blob/main/README.en.md)  | An application that allows users to upload, edit, and share images.                     | FS    | Docker, MariaDB, WordPress, Nginx |
-| [Trascendence](https://github.com/MatPizzolo/ft_transcendence/blob/main/README.en.md) | A web application where users can play Pong online, create tournaments, and add friends. | FS    | Docker, JavaScript, Bootstrap, Django |
-| [Amazon Clone](https://github.com/MatPizzolo/amazon-clone/blob/main/README.en.md) | An Amazon clone with user authentication and a product cart.                            | FS    | Docker, MongoDB, NestJS, React, Redux, Material-UI |
-| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes/blob/main/README.en.md) | A recipe search app highlighting Gatsby's speed.                                        | FE    | JavaScript, React, Gatsby         |
-| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone/blob/main/README.en.md) | A Netflix clone built with React.                                                      | FE    | JavaScript, React                 |
-| [Nio](https://github.com/MatPizzolo/Nio-Resto/blob/main/README.en.md)          | A landing page for a restaurant.                                                       | FE    | JS, React, Material-UI            |
-| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe/blob/main/README.en.md) | A simple online Tic Tac Toe game for 2 players.                                        | FE    | JS                                |
+### Featured Projects
+## <p align="center">Web Development Portfolio</p>
 
+### Featured Projects
+
+#### 🎮 Transcendence
+An online Pong gaming platform.
+- **Key Features:** Tournaments and games real-time and against AI, friend system, integrated chat
+- **Technologies:** Docker, Postgres, Django, Python, JavaScript, Bootstrap
+- **More:** [Repository](https://github.com/MatPizzolo/ft_transcendence)
+
+#### 📸 Camagru
+Social platform for editing and sharing posts
+- **Key Features:** Photo sharing, integrated photo editor, comments, like system
+- **Technologies:** Docker, MariaDB, PHP, JavaScript, TailwindCSS
+- **More:** [Repository](https://github.com/MatPizzolo/Camagru)
+
+#### 🛒 Amazon Clone
+Functional replica of the e-commerce giant
+- **Key Features:** Complete authentication, shopping cart
+- **MERN Stack:** MongoDB, Express, React, Node.js, Redux
+- **More:** [Repository](https://github.com/MatPizzolo/amazon-clone)
+
+### Other Projects
+
+| Project | Description | Stack | Demo |
+|---------|-------------|-------|------|
+| [Simply Recipes](https://github.com/MatPizzolo/Simply-Recipes) | Recipe finder optimized with Gatsby | React, Gatsby | [Demo](https://mateopizzolo-simple-recipes.netlify.app/) |
+| [Netflix Clone](https://github.com/MatPizzolo/netflix-clone) | Netflix interface with dynamic catalog | React | [Demo](https://netflix-clone-mp.netlify.app/) |
+| [Nio Restaurant](https://github.com/MatPizzolo/Nio-Resto) | Modern restaurant landing page | React, Material-UI | [Demo](https://peppy-lollipop-508c19.netlify.app/) |
+| [Tic Tac Toe](https://github.com/MatPizzolo/Tic-Tac-Toe) | Online multiplayer game | JavaScript | [Demo](https://mp-tictactoe.netlify.app/) |
 
 
 <br/>
